@@ -1,1 +1,1 @@
-# InstanceEncoder
+# InstanceSerializer
